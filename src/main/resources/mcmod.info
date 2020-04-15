@@ -1,0 +1,9 @@
+[
+	{
+	  "modid": "meteors",
+	  "name": "${modname}",
+	  "version": "${modversion}",
+	  "mcversion": "${mcversion}",
+	  "authorList": ["Leterio"]
+	}
+]
